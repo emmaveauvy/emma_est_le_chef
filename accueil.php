@@ -9,7 +9,7 @@
 </head>
 
 <body>
-
+    <h2>cc</h2>
     <div>Voici la page d'accueil</div>
 
 </body>
