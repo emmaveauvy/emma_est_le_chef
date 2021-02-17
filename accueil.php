@@ -11,7 +11,7 @@
 <body>
 
     <div>Voici la page d'accueil</div>
-
+    <p>Mais c'est pas un doc php ça !</p>
 </body>
 
 </html>
