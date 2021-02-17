@@ -13,5 +13,5 @@
     <div>Voici la page d'accueil</div>
 
 </body>
-
+<?php echo "Hello it's me " ?>
 </html>
