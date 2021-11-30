@@ -11,6 +11,7 @@
 <body>
     <h2>cc</h2>
     <div>Voici la page d'accueil ici</div>
+    <a href="#">Ici un lien</a>
     <p>Mais c'est pas un doc php ça !</p>
 </body>
 <?php echo "Hello it's me " ?>
