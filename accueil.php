@@ -10,7 +10,7 @@
 
 <body>
     <h2>cc</h2>
-    <div>Voici la page d'accueil</div>
+    <div>Voici la page d'accueil ici</div>
     <p>Mais c'est pas un doc php ça !</p>
 </body>
 <?php echo "Hello it's me " ?>
